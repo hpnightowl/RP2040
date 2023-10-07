@@ -1,0 +1,3 @@
+/home/ubuntu/pico/projects/EX-6/Pico-I2C-LCD/examples/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/pico/projects/EX-6/Pico-I2C-LCD/examples/build/pioasm/CMakeFiles/edit_cache.dir
+/home/ubuntu/pico/projects/EX-6/Pico-I2C-LCD/examples/build/pioasm/CMakeFiles/pioasm.dir
